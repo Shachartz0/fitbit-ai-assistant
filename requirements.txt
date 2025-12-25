@@ -1,4 +1,7 @@
 langchain
 langgraph
+langchain-anthropic
 anthropic
 python-dotenv
+ipykernel
+jupyter
