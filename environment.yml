@@ -1,0 +1,6 @@
+name: fitbit-ai
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: C:\Users\DELL\anaconda3\envs\fitbit-ai

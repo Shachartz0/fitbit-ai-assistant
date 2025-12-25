@@ -1,0 +1,30 @@
+{
+    "user_profile": {
+      "age": 38,
+      "goals": {
+        "steps_daily": 10000,
+        "sleep_hours": 7
+      }
+    },
+    "daily_metrics": [
+      {
+        "date": "2025-03-17",
+        "steps": 7900,
+        "resting_hr": 63,
+        "sleep": {
+          "duration_min": 420,
+          "efficiency": 0.85
+        }
+      },
+      {
+        "date": "2025-03-18",
+        "steps": 8234,
+        "resting_hr": 61,
+        "sleep": {
+          "duration_min": 345,
+          "efficiency": 0.82
+        }
+      }
+    ]
+  }
+  
